@@ -3,8 +3,9 @@
 <br / >
 
 A project of Corona Live stats using GET command and esp8266 module from https://www.iedcr.gov.bd/
-<br>
-Firstly, We copied those data from the <a href="https://www.iedcr.gov.bd/">IEDCR</a> webpage. Then, I stored it <a href="https://thingspeak.com">ThingSpeak</a>. we stored there because we can find those data very easily.For each data we created each Thingspeak each API. And also we need to ensure the internet for running those processes. I have given those API to below:
+<br />
+<br />
+Firstly, We copied those data from the <a href="https://www.iedcr.gov.bd/">IEDCR</a> webpage. Then, I stored it <a href="https://thingspeak.com">ThingSpeak</a>. we stored there because we can find those data very easily. For each data, we created each Thingspeak each API. And also we need to ensure the internet for running those processes. I have given those API to below:
 <br />
 <br />
 Total Cases: https://api.thingspeak.com/apps/thinghttp/send_request?api_key=0WYQ4B80AG8BZ6BD
