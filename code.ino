@@ -1,5 +1,6 @@
 //A project of Corona Live stats using GET command and esp8266 module from https://www.iedcr.gov.bd/
 /*
+ * Author: pollob1563
  * 
  * |||||||||||||||||Components||||||||||||||||||||
  * ||                                           ||
